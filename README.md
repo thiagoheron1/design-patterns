@@ -9,4 +9,4 @@
 * [Factory Methods](https://refactoring.guru/design-patterns/factory-method)
 
 ## Minha Wiki:
-* [Factory Methods](https://github.com/thiagoheron1/design-patterns/wiki/Anota%C3%A7%C3%B5es---Factory-Methods)
+* [Factory Methods](https://github.com/thiagoheron1/design-patterns/wiki/Factory-Methods)
